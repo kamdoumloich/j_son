@@ -1,4 +1,4 @@
-{
+[{
   "id": 1,
   "first_name": "Capsule",
   "last_name": "Frayne",
@@ -7,4 +7,4 @@
   "targetid": "e6a10646e1d649b693a8523e95c57b82",
   "thumburl": "https://developer.vuforia.com/samples/cloudreco/thumbs/01_thumbnail.png",
   "bookurl": "https://developer.vuforia.com/samples/cloudreco/book1.html"
-}
+}]
