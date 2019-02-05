@@ -1,18 +1,20 @@
 
-{
+{    
 
-  "posts": [
+"id": 1,
 
-    { "id": 1, "title": "json-server", "author": "typicode" }
+"first_name": "Cube",
 
-  ],
+"last_name": "Staker",
 
-  "comments": [
+"desease": "cyclosporine",
 
-    { "id": 1, "body": "some comment", "postId": 1 }
+"gender": "Female",
 
-  ],
+"targetid": "3c40219be77b4ead9419250b07b81de4"
 
-  "profile": { "name": "typicode" }
+"thumburl":"https://developer.vuforia.com/samples/cloudreco/thumbs/01_thumbnail.png",
+
+"bookurl":"https://developer.vuforia.com/samples/cloudreco/book1.html"
 
 }
