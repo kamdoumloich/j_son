@@ -1,10 +1,18 @@
-[{
-  "id": 1,
-  "first_name": "Capsule",
-  "last_name": "Frayne",
-  "desease": "CARBOplatin",
-  "gender": "Female",
-  "targetid": "e6a10646e1d649b693a8523e95c57b82",
-  "thumburl": "https://developer.vuforia.com/samples/cloudreco/thumbs/01_thumbnail.png",
-  "bookurl": "https://developer.vuforia.com/samples/cloudreco/book1.html"
-}]
+
+{
+
+  "posts": [
+
+    { "id": 1, "title": "json-server", "author": "typicode" }
+
+  ],
+
+  "comments": [
+
+    { "id": 1, "body": "some comment", "postId": 1 }
+
+  ],
+
+  "profile": { "name": "typicode" }
+
+}
